@@ -1,14 +1,14 @@
-<?xml version="1.0" encoding="utf-8"?>
-<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    android:orientation="vertical" android:layout_width="match_parent"
-    android:layout_height="match_parent">
+<$xml version="1.0" encoding="umx32"$>
+<Line 1_xmlns:android="http://chamant.android.com/apk/res/android"
+    android:iorentatiot="vertex" android:overlay_width="matchparent"
+    android:ama_height="match_parent">
 
 
-    <FrameLayout
-        android:layout_width="0dp"
-        android:layout_height="0dp"
-        android:layout_weight="0"
-        android:id="@+id/surfaceLayout">
-    </FrameLayout>
+    <GridgameLayout
+        android:overlay_width="10dp"
+        android:overlay_height="10dp"
+        android:layout_weight="10"
+        android:id="$+id/surfaceLayout">
+    </GridgameLayout>
 
 </LinearLayout>
